@@ -1,0 +1,8 @@
+What's Java Swing? 
+And why, compared with Java AWT?
+
+Java Swing is responsible per creation of a GUI in an independent and lightweight form (?)
+
+Studies reference: 
++ https://docs.oracle.com/javase/8/docs/api/index.html?javax/swing/package-summary.html
++ https://www.geeksforgeeks.org/java/introduction-to-java-swing/
